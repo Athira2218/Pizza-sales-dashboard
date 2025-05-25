@@ -48,7 +48,7 @@ All visuals were created using PivotTables and connected through the Excel Data 
 ## Dashboard Preview
 
 
-
+![Dashboard Screenshot]([https://github.com/YourUsername/your-repo-name/raw/main/images/dashboard-preview.png](https://github.com/Athira2218/Pizza-sales-dashboard/blob/main/Pizza%20sales%20dashboard_preview.png)
 ---
 
 ## Learning & Challenges
@@ -59,4 +59,27 @@ While building the dashboard, I encountered slicer issues due to Data Model cach
 ---
 
 ## Folder Structure
+pizza-sales-dashboard/
+├── Pizza_Sales_Dashboard.xlsx
+├── images/
+│ └── dashboard-preview.png
+└── README.md
+
+
+
+---
+
+## How to Use
+
+1. Download and open `Pizza_Sales_Dashboard.xlsx`.
+2. Use the slicers and timeline to filter the dashboard.
+3. Explore KPIs and visualizations to gain insights from the data.
+
+---
+
+## Acknowledgment
+
+This project was inspired by the Data Tutorials YouTube channel. While the overall idea is based on their video, all SQL queries, design elements, layout decisions, and dashboard execution were done independently.
+
+---
 

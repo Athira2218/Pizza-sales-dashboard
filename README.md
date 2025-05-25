@@ -48,7 +48,7 @@ All visuals were created using PivotTables and connected through the Excel Data 
 ## Dashboard Preview
 
 
-![Dashboard Screenshot]([https://github.com/YourUsername/your-repo-name/raw/main/images/dashboard-preview.png](https://github.com/Athira2218/Pizza-sales-dashboard/blob/main/Pizza%20sales%20dashboard_preview.png)
+![Dashboard Screenshot](https://github.com/Athira2218/Pizza-sales-dashboard/blob/14fca6272c3f6d6286d659387f3159770e7f11d7/Pizza%20sales%20dashboard_preview.png)
 ---
 
 ## Learning & Challenges

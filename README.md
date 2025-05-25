@@ -59,12 +59,13 @@ While building the dashboard, I encountered slicer issues due to Data Model cach
 ---
 
 ## Folder Structure
-pizza-sales-dashboard
--Pizza_Sales_Dashboard.xlsx
-images
--dashboard-preview.png
-README.md
-
+```
+pizza-sales-dashboard/
+├── Pizza_Sales_Dashboard.xlsx       # Full Excel workbook with data, KPIs, pivots, and dashboard
+├── images/
+│   └── dashboard-preview.png        # Preview image of the final Excel dashboard
+└── README.md                        # Project documentation
+```
 
 
 ---

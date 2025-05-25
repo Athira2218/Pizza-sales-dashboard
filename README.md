@@ -9,7 +9,7 @@ This project presents an Excel-based dashboard that analyzes pizza sales data. T
 - Used MySQL to extract key performance metrics from a pizza sales dataset.
 - Imported query results into Excel and built an interactive dashboard.
 - Designed the layout, color scheme, and visuals independently.
-- Created a dynamic experience with slicers, timelines, and the Excel Data Model.
+- Created a dynamic experience with pivot table,charts and timelines.
 
 ---
 
@@ -40,8 +40,8 @@ All visuals were created using PivotTables and connected through the Excel Data 
 
 - MySQL  
 - Microsoft Excel  
-- PivotTables & Excel Data Model  
-- Timeline & Slicers
+- PivotTables   
+- Timeline 
 
 ---
 

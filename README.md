@@ -71,7 +71,7 @@ README.md
 
 ## How to Use
 
-1. Download and open `Pizza_Sales_Dashboard.xlsx`.
+1. Download and open : https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FAthira2218%2FPizza-sales-dashboard%2Frefs%2Fheads%2Fmain%2FPizza_Sales_Dashboard.xlsx&wdOrigin=BROWSELINK
 2. Use the slicers and timeline to filter the dashboard.
 3. Explore KPIs and visualizations to gain insights from the data.
 
